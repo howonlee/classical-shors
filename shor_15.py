@@ -265,6 +265,8 @@ def test_sat_shors():
     print("Periodicity in amplitude now shown to be:", res)
     print("r is therefore ", int(2 ** 3) // res)
     print("Go figure out actual factors yourself")
+    print("If you're wondering why r needs to be calculated after the period, peep the actual-quantum folks paper I'm replicating")
+    print("https://arxiv.org/abs/quant-ph/0112176")
 
 
 if __name__ == "__main__":
