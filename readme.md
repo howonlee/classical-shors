@@ -34,7 +34,7 @@ So if we add the ancilla bits like the quantum computing folks add ancilla qubit
 
 In order for modern mainstream public key cryptography that underlays, for example, your bank account existing and not being accessible to random people, to exist, some mathematics has to not exist.
 
-That is, there has to not be a way to invert some certain functions called one-way functions, and specifically the function called modular exponentiation, which is said to be a one-way function.
+That is, there has to not be a way to quickly find possible inputs given the outputs of some certain functions called one-way functions, and specifically the function called modular exponentiation, which is said to be a one-way function.
 
 The mathematics we want to not exist may, unfortunately, exist. I am not certain of this, but it may. I have an implementation for a small case.
 
@@ -62,7 +62,7 @@ Also, I gotta do this on weekends, what with the job-having, so I was getting si
 
 ### You're a crank.
 
-Maybe! I don't know! Let's see!
+Maybe! I don't know! Let's see! Maybe on my next few vacations, maybe someone else gets interested in this.
 
 Remaining Questions For Me
 ----
