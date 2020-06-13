@@ -253,7 +253,7 @@ def test_sat_shors():
     print("possible inputs: ", possible_inputs)
     print("Read the code to see how I got them")
     collision_pairs = set()
-    for _ in range(5):
+    for _ in range(25):
         collision_pair = (random.choice(list(possible_inputs)), random.choice(list(possible_inputs)))
         while (collision_pair[0] - collision_pair[1]) == 0:
             collision_pair = (random.choice(list(possible_inputs)), random.choice(list(possible_inputs)))
@@ -262,7 +262,9 @@ def test_sat_shors():
     res = functools.reduce(math.gcd, collision_pairs)
 
     # This looks bad because we're finding period of 7^x mod 15, but the claim is that this scales up way better than number field sieve
-    print("Periodicity in amplitude now shown to be:", 2**3 / res)
+    print("Periodicity in amplitude now shown to be:", res)
+    print("r is therefore ", int(2 ** 3) // res)
+    print("Go figure out actual factors yourself")
 
 
 if __name__ == "__main__":
