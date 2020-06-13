@@ -58,6 +58,8 @@ If the Grover's thing in L-infinity norm works out, there is no need to press th
 
 This way, in the case that the whole thing goes through, you get like a fair bit of warning instead of none. Also, it increases the comedy value and I am optimizing on comedy value.
 
+Also, I gotta do this on weekends, what with the job-having, so I was getting sick and tired of this and wanted to poke at the Grover's thing.
+
 ### You're a crank.
 
 Maybe! I don't know! Let's see!
