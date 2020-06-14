@@ -66,7 +66,7 @@ Also, I gotta do this on weekends, what with the job-having, so I was getting si
 
 Maybe! I don't know! Let's see! Gimme like a quarter or two, or maybe someone else gets interested in this.
 
-Remaining Questions For Me
+Remaining Questions And Notes
 ----
 
 Is it the backwards way or the forwards way? `7^x mod 15` is not actually complicated enough for it to matter in period finding, looks like.
