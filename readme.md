@@ -52,6 +52,8 @@ Modular multiplication, start sweating.
 
 Modular exponentiation, you should probably go panic and press the big red button. Things have gone wahoonie-shaped.
 
+Note that it is definitely possible that someone reads this, goes and develops it all the way to modular exponentiation, and starts whacking at your keys immediately. That is a thing that could happen! Not me, though.
+
 If the Grover's thing in L-infinity norm works out, there is no need to press the big red button because society as it exists currently will not survive the month. It probably won't work out.
 
 ### Why didn't you properly finish this thing before you go out and shove it on github?
