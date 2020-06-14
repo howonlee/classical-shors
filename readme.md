@@ -62,7 +62,7 @@ Also, I gotta do this on weekends, what with the job-having, so I was getting si
 
 ### You're a crank.
 
-Maybe! I don't know! Let's see! Maybe on my next few vacations, maybe someone else gets interested in this.
+Maybe! I don't know! Let's see! Gimme like a quarter or two, or maybe someone else gets interested in this.
 
 Remaining Questions For Me
 ----
