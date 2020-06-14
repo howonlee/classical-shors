@@ -26,7 +26,7 @@ and CCNOT (Toffoli):
 
 CCNOT(a, b, c) = (a, b, (a AND b) XOR c)
 
-Of interest is the fact that these logic gates are involutive (they have an inverse, and are their own inverse). Toffoli gate [can be reduced to NAND](https://en.wikipedia.org/wiki/Toffoli_gate#Universality_and_Toffoli_gate), and importantly, modular exponentiation can be made out of these and single-qubit gates.
+Of interest is the fact that these logic gates are involutive (they have an inverse, and are their own inverse). Toffoli gate [is universal with respect to classical computation](https://en.wikipedia.org/wiki/Toffoli_gate#Universality_and_Toffoli_gate), and importantly, modular exponentiation can be made out of these and single-qubit gates.
 
 So if we add the ancilla bits like the quantum computing folks add ancilla qubits and take care of a lot of other stuff that the quantum computing folks have sort of taken care of for us, it is alleged but not proven that the period of modular exponentiation can be straightforwardly found with a classical algorithm. I do have an implementation for 7 ** x mod 15, though.
 
